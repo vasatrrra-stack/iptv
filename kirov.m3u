@@ -33,6 +33,8 @@ http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_FRIDAY.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="КИРОВ",ТНТ (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_TNT.m3u8
+#EXTINF:-1 group-title="КИРОВ",ТНТ (Киров) резерв
+http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_TNT.m3u8
 #EXTINF:-1 group-title="КИРОВ",Че! (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_CHE.m3u8
 #EXTINF:-1 group-title="КИРОВ",Ю (Киров)
