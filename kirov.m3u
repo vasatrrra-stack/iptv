@@ -34,40 +34,8 @@ http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="КИРОВ",ТНТ (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_TNT.m3u8
 
-#EXTINF:-1 group-title="КИРОВ",ТНТ (Киров) резерв
-http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_TNT.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",ТНТ
-https://streaming.goodstream.cyou/live/38.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ (Архив)" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",ТНТ (Архив)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ +7 (Архив)" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",ТНТ +7 (Архив)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",ТНТ HD
-http://87.246.54.249:8085/THT/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",ТНТ HD
-http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ Int." tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",ТНТ Int.
-http://178.134.1.158:8081/tnt/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗНОЕ",ТНТ
-http://46.8.46.14/tnt/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="РАЗНОЕ",ТНТ
-http://185.46.16.239:8000/TNT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="РАЗНОЕ",ТНТ HD
-http://mfe02.cliptv.az/dash/TNT_HDkjh654.ism/playlist.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="РАЗНОЕ",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",ТНТ
-http://91.194.191.241:8081/chid17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="https://i.ibb.co/nr0W6kC/resize-47.png" group-title="ФЕДЕРАЛЬНЫЕ",ТНТ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",ТНТ
-http://178.212.71.253:8000/play/19/index.m3u8
-#EXTINF:-1 tvg-id="TNTInternational.ru@SD",ТНТ International
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 group-title="КИРОВ",Че! (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_CHE.m3u8
