@@ -3,20 +3,10 @@
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_1TV.m3u8
 #EXTINF:-1 group-title="КИРОВ",Россия 1 (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_ROSSIA1.m3u8
-#EXTINF:-1 group-title="КИРОВ",Матч! (Киров)
-http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_MATCHTV.m3u8
 #EXTINF:-1 group-title="КИРОВ",НТВ (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_NTV.m3u8
-#EXTINF:-1 group-title="КИРОВ",Пятый канал (Киров)
-http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_5TV.m3u8
-#EXTINF:-1 group-title="КИРОВ",Россия K (Киров)
-http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_ROSSIAK.m3u8
 #EXTINF:-1 group-title="КИРОВ",Россия 24 (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_ROSSIA24.m3u8
-#EXTINF:-1 group-title="КИРОВ",Карусель (Киров)
-http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="КИРОВ",ОТР (Киров)
-http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_OTR.m3u8
 #EXTINF:-1 group-title="КИРОВ",ТВЦ (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_TVC.m3u8
 #EXTINF:-1 group-title="КИРОВ",РЕН ТВ (Киров)
@@ -29,8 +19,6 @@ http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_DOMASHNIY.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_TV3.m3u8
 #EXTINF:-1 group-title="КИРОВ",Пятница! (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="КИРОВ",Звезда (Киров)
-http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="КИРОВ",ТНТ (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_TNT.m3u8
 
@@ -51,20 +39,10 @@ http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
 http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_1TV.m3u8
 #EXTINF:-1 group-title="КИРОВ (резерв)",Россия 1 (Киров)
 http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_ROSSIA1.m3u8
-#EXTINF:-1 group-title="КИРОВ (резерв)",Матч! (Киров)
-http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_MATCHTV.m3u8
 #EXTINF:-1 group-title="КИРОВ (резерв)",НТВ (Киров)
 http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_NTV.m3u8
-#EXTINF:-1 group-title="КИРОВ (резерв)",Пятый канал (Киров)
-http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_5TV.m3u8
-#EXTINF:-1 group-title="КИРОВ (резерв)",Россия K (Киров)
-http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_ROSSIAK.m3u8
 #EXTINF:-1 group-title="КИРОВ (резерв)",Россия 24 (Киров)
 http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_ROSSIA24.m3u8
-#EXTINF:-1 group-title="КИРОВ (резерв)",Карусель (Киров)
-http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="КИРОВ (резерв)",ОТР (Киров)
-http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_OTR.m3u8
 #EXTINF:-1 group-title="КИРОВ (резерв)",ТВЦ (Киров)
 http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_TVC.m3u8
 #EXTINF:-1 group-title="КИРОВ (резерв)",РЕН ТВ (Киров)
@@ -77,8 +55,6 @@ http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_DOMASHNIY.m3u8
 http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_TV3.m3u8
 #EXTINF:-1 group-title="КИРОВ (резерв)",Пятница! (Киров)
 http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="КИРОВ (резерв)",Звезда (Киров)
-http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_ZVEZDA.m3u8
 #EXTINF:-1 group-title="КИРОВ (резерв)",ТНТ (Киров)
 http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_TNT.m3u8
 
