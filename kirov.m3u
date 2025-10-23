@@ -33,8 +33,6 @@ http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_U.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_9TVHD.m3u8
 #EXTINF:-1 group-title="КИРОВ",Первый городской HD720 (Киров)
 http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
-#EXTINF:-1 group-title="КИРОВ",ТНТ HD
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 
 #EXTINF:-1 group-title="КИРОВ (резерв)",Первый канал (Киров)
 http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_1TV.m3u8
