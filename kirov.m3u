@@ -13,8 +13,6 @@ http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_5TV.m3u8
 http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_ROSSIAK.m3u8
 #EXTINF:-1 group-title="КИРОВ-1",Россия 24 (Киров)
 http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_ROSSIA24.m3u8
-#EXTINF:-1 group-title="КИРОВ-1",Карусель (Киров)
-http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_KARUSEL.m3u8
 #EXTINF:-1 group-title="КИРОВ-1",ОТР (Киров)
 http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_OTR.m3u8
 #EXTINF:-1 group-title="КИРОВ-1",ТВЦ (Киров)
