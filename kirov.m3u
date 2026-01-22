@@ -106,6 +106,31 @@ http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_9TVHD.m3u8
 #EXTINF:-1 group-title="КИРОВ (резерв)",Первый городской HD720 (Киров)
 http://a0925677.xsph.ru/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
 
+#EXTINF:-1 group-title="discovery" tvg-id="discovery-hd" tvg-logo="http://epg.it999.ru/img2/1612.png",Discovery HD
+https://livetv.mylifeisgood.ml/channels/discovery.m3u8
+#EXTINF:-1 group-title="discovery" tvg-id="discovery-science" tvg-logo="http://epg.it999.ru/img2/3067.png",Discovery Science HD
+https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
+#EXTINF:0 group-title="discovery" tvg-id="id-xtra-ru" tvg-logo="http://epg.it999.ru/img2/2507.png",Investigation Discovery HD
+https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
+#EXTINF:-1 group-title="discovery" audio-track="rus", Discovery
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1 group-title="discovery" audio-track="rus", Discovery HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="discovery",Discovery Channel
+http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 group-title="discovery",Discovery Channel
+http://146.120.14.239:3001/play/a06y
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/idxtra.png" group-title="discovery",Investigation Discovery
+http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
+#EXTINF:-1 group-title="discovery",Investigation Discovery
+http://146.120.14.239:3001/play/a06x
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery Channel.png" group-title="discovery" tvg-id="364",Discovery Channel
+http://195.245.99.242/Discovery/playlist.m3u8
+#EXTINF:-1 group-title="discovery",Discovery Channel HD
+http://s8.rafail1982.uz/1039/tracks-v1a1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery Channel HD.png" group-title="discovery",Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dmitry-tv.ddns.net/hls/CH_DISCOVERY_CHANNELHD.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="ТНТ",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -1160,19 +1185,19 @@ http://192.162.64.99:5000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", NationalGeographic HD
 https://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery
+#EXTINF:-1 tvg-id="discovery-channel" group-title="discovery", Discovery
 http://213.252.199.137:8000/play/ch336_Diskoveri_kanal_Rossiya_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel
+#EXTINF:-1 tvg-id="discovery-channel" group-title="discovery", Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel HD
+#EXTINF:-1 tvg-id="discovery-channel" group-title="discovery", Discovery Channel HD
 http://195.64.140.147:10151/151
 
-#EXTINF:-1 tvg-id="discovery-science-pl" group-title="Познавательные", Discovery Science
+#EXTINF:-1 tvg-id="discovery-science-pl" group-title="discovery", Discovery Science
 http://46.8.46.14/DiscoveryScience/index.m3u8
 
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery Европа
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="discovery", ID Investigation Discovery Европа
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
 
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra Европа
